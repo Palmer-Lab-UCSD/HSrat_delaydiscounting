@@ -1,5 +1,14 @@
 # HSrat_delaydiscounting
-Phenotypic and genetic analysis for delay discounting
 
+Overview: 
+This repository contains data from Heterogeneous Stock (HS) rats that underwent a delay discounting experimental procedure. Here, we provide the phenotype data and processing pipeline for trait calculations for GWAS. 
+
+Primary associated publication citation: 
+Lara MK, Chitre AS, Chen D, Johnson BB, Nguyen KM, Cohen KA, Muckadam SA, Lin B, Ziegler S, Beeson A, Sanches TM, Solberg Woods LC, Polesskaya O, Palmer AA, Mitchell SH. Genome-wide association study of delay discounting in Heterogeneous Stock rats. Genes Brain Behav. 2024 Aug;23(4):e12909. doi: 10.1111/gbb.12909. PMID: 39119916; PMCID: PMC11310854.
+
+Related resources: 
+Genotype data and genetic analysis information can be found in the UC San Diego Library Digital Collections under the following citation: 
+
+Description: 
 The 'data' folder contains phenotype information for each HS rat including indifference points at delays 0, 2, 4, 8, 16, and 24. 
 The 'results' folder contains the fitted model information including exponential and hyperbolic k, and AUC. 
