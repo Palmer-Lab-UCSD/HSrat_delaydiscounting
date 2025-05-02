@@ -11,8 +11,8 @@ Genotype data and genetic analysis information can be found in the UC San Diego 
 Palmer, Abraham A. (2024). Heterogeneous Stock (HS) Rat Genotypes, Version 6. In Genotype Data from: NIDA Center for GWAS in Outbred Rats. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0CR5TKW
 
 The GWAS pipeline can be found here: https://github.com/sanchestm/GWAS-pipeline
-The protocol for delay discounting can be found here: 
 
+The protocol for delay discounting can be found here: 
 
 Description: 
 The 'data' folder contains phenotype information for each HS rat including indifference points at delays 0, 2, 4, 8, 16, and 24. 
