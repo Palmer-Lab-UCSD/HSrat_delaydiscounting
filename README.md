@@ -8,7 +8,7 @@ Lara MK, Chitre AS, Chen D, Johnson BB, Nguyen KM, Cohen KA, Muckadam SA, Lin B,
 
 Related resources: 
 Genotype data and genetic analysis information can be found in the UC San Diego Library Digital Collections under the following citations: 
-Palmer, Abraham A. (2024). Heterogeneous Stock (HS) Rat Genotypes, Version 6. In Genotype Data from: NIDA Center for GWAS in Outbred Rats. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0CR5TKW
+Palmer, Abraham A. (2023). Heterogeneous Stock (HS) Rat Genotypes, Version 3. In Genotype Data from: NIDA Center for GWAS in Outbred Rats. UC San Diego Library Digital Collections. https://doi.org/10.6075/J00G3KBX
 
 The GWAS pipeline can be found here: https://github.com/sanchestm/GWAS-pipeline
 
