@@ -13,6 +13,8 @@ Palmer, Abraham A. (2023). Heterogeneous Stock (HS) Rat Genotypes, Version 3. In
 The GWAS pipeline can be found here: https://github.com/sanchestm/GWAS-pipeline
 
 The protocol for delay discounting can be found here: 
+Montana Kay Lara, Suzanne H. Mitchell 2025. Delay Discounting Measured Using an Adjusting Amount Procedure . protocols.io
+https://dx.doi.org/10.17504/protocols.io.kqdg3xn7zg25/v1
 
 Description: 
 The 'data' folder contains phenotype information for each HS rat including indifference points at delays 0, 2, 4, 8, 16, and 24. 
