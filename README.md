@@ -7,7 +7,10 @@ Primary associated publication citation:
 Lara MK, Chitre AS, Chen D, Johnson BB, Nguyen KM, Cohen KA, Muckadam SA, Lin B, Ziegler S, Beeson A, Sanches TM, Solberg Woods LC, Polesskaya O, Palmer AA, Mitchell SH. Genome-wide association study of delay discounting in Heterogeneous Stock rats. Genes Brain Behav. 2024 Aug;23(4):e12909. doi: 10.1111/gbb.12909. PMID: 39119916; PMCID: PMC11310854.
 
 Related resources: 
-Genotype data and genetic analysis information can be found in the UC San Diego Library Digital Collections under the following citations: 
+GWAS data, results, and report can be found in the UC San Diego Library Digital Collections under the following citations: 
+Lara, Montana Kay; Chitre, Apurva S.; Chen, Denghui; Johnson, Benjamin B.; Nguyen, Khai‐Minh; Cohen, Katarina A.; Muckadam, Sakina A.; Lin, Bonnie; Ziegler, Shae; Beeson, Angela; Sanches, Thiago M.; Solberg Woods, Leah C.; Polesskaya, Oksana; Palmer, Abraham A.; Mitchell, Suzanne H. (2025). Data from: Genome‐wide association study of delay discounting in Heterogeneous Stock rats. In The Center for GWAS in Outbred Rats Database (C-GORD). UC San Diego Library Digital Collections. https://doi.org/10.6075/J0BG2PDS
+
+Genotype data can be found in the UC San Diego Library Digital Collections under the following citations: 
 Palmer, Abraham A. (2023). Heterogeneous Stock (HS) Rat Genotypes, Version 3. In Genotype Data from: NIDA Center for GWAS in Outbred Rats. UC San Diego Library Digital Collections. https://doi.org/10.6075/J00G3KBX
 
 The GWAS pipeline can be found here: https://github.com/sanchestm/GWAS-pipeline
